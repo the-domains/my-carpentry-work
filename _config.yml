@@ -1,0 +1,28 @@
+name: My Carpentry Work
+favicon: null
+layout_spectrum: 0.08300296636298299
+typography_spectrum: 0.5175300461705774
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8559719626791775
+  lightness: 0.04764330014586449
+  saturation: 0.14754395186901093
+  rhythmicContrast: 0.10939702298492193
+purpose: []
